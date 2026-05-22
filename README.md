@@ -7,3 +7,4 @@
 19 May: updated features so that websites work smoothly.
 20 May: Have to tackle with hugging face issue with render.
 21 May: completed with my 2 projects that gave me my back.
+22 May: Have the revision and improvement in dsa and projects.
