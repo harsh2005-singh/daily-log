@@ -11,3 +11,4 @@
 23 May: improving the github portfolio.
 24 May: just solve some problems.
 25 May: nothing.
+26 May: updated demo function in civivsense.
