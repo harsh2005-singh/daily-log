@@ -13,3 +13,4 @@
 25 May: nothing.
 26 May: updated demo function in civivsense.
 27 May: updated my github profile.
+28 May: done some dsa quest,with some apti practice and also starting with aiml thing.
