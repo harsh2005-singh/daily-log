@@ -14,3 +14,4 @@
 26 May: updated demo function in civivsense.
 27 May: updated my github profile.
 28 May: done some dsa quest,with some apti practice and also starting with aiml thing.
+29 May: revision of python and made SnakeWaterGun_Game and solved dsa problems too.
