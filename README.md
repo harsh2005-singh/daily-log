@@ -19,4 +19,4 @@
 31 May: updating intelidataops and making it usable by others.
 01 Jun: done with intelidataops if mind says to deploy then only deploying it.
 02 Jun: nothing but DSA.
-03 Jun: done DSA and making resume.
+03 Jun: done DSA and making resumeand starting with friday ai.
