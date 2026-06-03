@@ -19,3 +19,4 @@
 31 May: updating intelidataops and making it usable by others.
 01 Jun: done with intelidataops if mind says to deploy then only deploying it.
 02 Jun: nothing.
+
