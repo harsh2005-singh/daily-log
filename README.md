@@ -18,5 +18,5 @@
 30 May: contrubuted for an old intelidatops project.
 31 May: updating intelidataops and making it usable by others.
 01 Jun: done with intelidataops if mind says to deploy then only deploying it.
-02 Jun: nothing.
-
+02 Jun: nothing but DSA.
+03 Jun: done DSA and making resume.
