@@ -20,3 +20,4 @@
 01 Jun: done with intelidataops if mind says to deploy then only deploying it.
 02 Jun: nothing but DSA.
 03 Jun: done DSA and making resumeand starting with friday ai.
+04 Jun: made a very nice resume and filled for very first internship and done dsa.
