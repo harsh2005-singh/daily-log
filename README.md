@@ -21,5 +21,6 @@
 02 Jun: nothing but DSA.
 03 Jun: done DSA and making resumeand starting with friday ai.
 04 Jun: made a very nice resume and filled for very first internship and done dsa.
-05 Jun: exams preparaion with everything else finishing inb 1 hr.
+05 Jun: exams preparaion with everything else finishing in 1 hr.
 06 Jun: exam preparation and daily routine.
+07 Jun: exam preparation and dsa 1 quest.
