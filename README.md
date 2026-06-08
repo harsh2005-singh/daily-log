@@ -24,3 +24,4 @@
 05 Jun: exams preparaion with everything else finishing in 1 hr.
 06 Jun: exam preparation and daily routine.
 07 Jun: exam preparation and dsa 1 quest.
+08 Jun: ca4 exam and sem exam preparation.
