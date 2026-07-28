@@ -26,3 +26,4 @@
 07 Jun: exam preparation and dsa 1 quest.
 08 Jun: ca4 exam and sem exam preparation.
 09 Jun: given ca4 exam and sem exam preparation.
+28 Jul: repaired my projects that gone into sleep for a long time.
