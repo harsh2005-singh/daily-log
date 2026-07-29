@@ -27,3 +27,4 @@
 08 Jun: ca4 exam and sem exam preparation.
 09 Jun: given ca4 exam and sem exam preparation.
 28 Jul: repaired my projects that gone into sleep for a long time.
+29 Jul: restart revision of dsa and resume improvement.
