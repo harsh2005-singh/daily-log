@@ -30,3 +30,4 @@
 29 Jul: restart revision of dsa and resume improvement.
 30 Jul: dsa revision and money earning 
 01 Aug: sql revision and placement.
+02 Aug: becoming placement ready.
