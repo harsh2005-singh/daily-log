@@ -31,3 +31,4 @@
 30 Jul: dsa revision and money earning 
 01 Aug: sql revision and placement.
 02 Aug: becoming placement ready.
+03 Aug: going with placement.
