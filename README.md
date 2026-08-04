@@ -32,3 +32,4 @@
 01 Aug: sql revision and placement.
 02 Aug: becoming placement ready.
 03 Aug: going with placement.
+04 Aug: revise a dsa thing and going with sql.
