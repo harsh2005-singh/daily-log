@@ -33,3 +33,4 @@
 02 Aug: becoming placement ready.
 03 Aug: going with placement.
 04 Aug: revise a dsa thing and going with sql.
+05 Aug: sql,dsa,resume thats all for today.
