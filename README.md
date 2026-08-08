@@ -36,3 +36,4 @@
 05 Aug: sql,dsa,resume thats all for today.
 06 Aug: little mindfreshment.
 07 Aug: finished sql.
+08 Aug: dsa basics revision and aws.
